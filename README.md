@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Demo](https://adasa-psi.vercel.app/)**
+🔗 **[View Live Demo](https://lens-the-world-of-photography-eight.vercel.app/)**
 
 ---
 
@@ -68,42 +68,6 @@ src/
 └── index.css
 ```
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Abdoo295/Adasa.git
-```
-
-### 2. Navigate to the project
-
-```bash
-cd Adasa
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
-
-بعدها افتح الرابط الذي يظهر في الـTerminal، غالبًا:
-
-```text
-http://localhost:5173
-```
-
----
-
 ## 📱 Responsive Design
 
 تم تصميم الموقع ليكون متوافقًا مع:
@@ -149,9 +113,3 @@ https://linkedin.com/in/abdelrhman-el-nakeeb-04b925328
 ## ⭐ Show Your Support
 
 إذا عجبك المشروع، متنساش تعمل **⭐ Star** للـRepository!
-
-```
-
-ولو عايز تطور المشروع أكتر، فممكن تضيف له **Screenshots حقيقية من الموقع + Badges + قسم Features بصور/Icons** عشان الـREADME يبقى شكله احترافي جدًا على GitHub.
-```
-
